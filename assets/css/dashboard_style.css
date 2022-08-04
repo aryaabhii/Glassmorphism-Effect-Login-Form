@@ -563,7 +563,7 @@ main .recent-orders a {
     }
 
     main .recent-orders table {
-        width: 75vw;
+        width: 65vw;
     }
 
     main table thead tr th:last-child,
